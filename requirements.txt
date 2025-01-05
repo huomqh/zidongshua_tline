@@ -1,0 +1,2 @@
+requests==2.32.3
+fake_useragent==1.5.1
